@@ -1,0 +1,9 @@
+MIDlet-1: JBilibili,/icon64x64.png,JBilibili.JBilibiliMain
+MIDlet-Description: 适用于 Java ME 的 Bilibili 客户端
+MIDlet-Icon: 
+MIDlet-Name: JBilibili
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write, javax.microedition.io.Connector.serversocket, javax.microedition.io.Connector.ssl, javax.microedition.io.Connector.socket
+MIDlet-Vendor: OpenGiraffe, 8192Bit, etc.
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
